@@ -1,0 +1,2 @@
+# Classification-of-Red-Blood-Corpuscles-to-Detect-Malarial-Parasites
+• Implemented Morphological operations for removing noise from the image and Color base segmentation helped dividing the malarial parasite count by the total Red Blood Corpuscle’s count • Detected and separated malarial parasites using image processing techniques potentially saving lives • Used MATLAB and JAVA software to classify and detect the red blood corpuscles using the proposed operations
